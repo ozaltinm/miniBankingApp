@@ -2,7 +2,7 @@ Mini Banking App
 Mini Banking App is a comprehensive banking application that allows users to manage accounts, transfer funds, and perform user authentication. It is built with Spring Boot and related technologies.
 
 📑 Table of Contents
-Technologies Used
+Technologies Used 
 Setup Instructions
 REST API Details
 Project Structure
